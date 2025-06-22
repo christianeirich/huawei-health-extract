@@ -38,7 +38,7 @@ https://cthru.hopto.org/hitrava-web/convert/
 
 1. **Clone this repository** and enter its directory:
    ```bash
-   git clone https://github.com/yourusername/huawei-health-to-health-connect.git
+   git clone https://github.com/christianeirich/huawei-health-to-health-connect.git
    cd huawei-health-to-health-connect
     ```
 
